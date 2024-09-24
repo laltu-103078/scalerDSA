@@ -8,7 +8,7 @@ package Array;
 public class TrappingWater {
 
     public static void main(String[] args) {
-        
+
     }
     public int trap(final int[] bars) {
         if(bars.length == 2){

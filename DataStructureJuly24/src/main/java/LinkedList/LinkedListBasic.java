@@ -25,4 +25,5 @@ public class LinkedListBasic {
         }
         return false;
     }
+
 }
